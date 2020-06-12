@@ -1,0 +1,3 @@
+include ':app:util'
+rootProject.name='Util'
+include ':app'
